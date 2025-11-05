@@ -10,4 +10,4 @@ setup(
         'console_scripts': [
             'mealmaker = mealmaker.cli:main',
         ],
-    },
+    },)
