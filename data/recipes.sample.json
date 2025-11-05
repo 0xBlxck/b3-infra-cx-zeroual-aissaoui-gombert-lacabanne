@@ -33,4 +33,70 @@
       {"name": "pommes de terre", "qty": 500, "unit": "g"}
     ]
   }
+  ,
+  {
+    "id": "r4",
+    "name": "Salade de thon",
+    "tags": ["poisson", "rapide", "budget"],
+    "time_min": 10,
+    "budget_eur": 2.5,
+    "ingredients": [
+      {"name": "thon", "qty": 200, "unit": "g"},
+      {"name": "tomates", "qty": 2, "unit": "piece"},
+      {"name": "salade", "qty": 1, "unit": "piece"},
+      {"name": "huile d'olive", "qty": 1, "unit": "cs"}
+    ]
+  },
+  {
+    "id": "r5",
+    "name": "Pâtes carbonara",
+    "tags": ["viande", "rapide"],
+    "time_min": 20,
+    "budget_eur": 3.5,
+    "ingredients": [
+      {"name": "pâtes", "qty": 200, "unit": "g"},
+      {"name": "lardons", "qty": 100, "unit": "g"},
+      {"name": "oeufs", "qty": 2, "unit": "piece"},
+      {"name": "parmesan", "qty": 30, "unit": "g"}
+    ]
+  },
+  {
+    "id": "r6",
+    "name": "Soupe de légumes",
+    "tags": ["vege", "budget"],
+    "time_min": 30,
+    "budget_eur": 2.0,
+    "ingredients": [
+      {"name": "carottes", "qty": 2, "unit": "piece"},
+      {"name": "poireaux", "qty": 1, "unit": "piece"},
+      {"name": "pommes de terre", "qty": 2, "unit": "piece"},
+      {"name": "oignon", "qty": 1, "unit": "piece"},
+      {"name": "bouillon de légumes", "qty": 1, "unit": "cube"}
+    ]
+  },
+    {
+    "id": "r7",
+    "name": "Riz aux légumes",
+    "tags": ["vege", "budget"],
+    "time_min": 25,
+    "budget_eur": 2.3,
+    "ingredients": [
+      {"name": "riz", "qty": 200, "unit": "g"},
+      {"name": "carottes", "qty": 1, "unit": "piece"},
+      {"name": "courgette", "qty": 1, "unit": "piece"},
+      {"name": "oignon", "qty": 0.5, "unit": "piece"}
+    ]
+  },
+  {
+    "id": "r8",
+    "name": "Oeufs au plat",
+    "tags": ["vege", "rapide", "budget"],
+    "time_min": 7,
+    "budget_eur": 1.2,
+    "ingredients": [
+      {"name": "oeufs", "qty": 2, "unit": "piece"},
+      {"name": "huile", "qty": 1, "unit": "cs"},
+      {"name": "pain", "qty": 50, "unit": "g"}
+    ]
+  }
 ]
